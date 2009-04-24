@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: 
+Specification-Title: "number2text" 
+Specification-Version: "1.0.0"
+Specification-Vendor: "SGTIC".
+Implementation-Title: "number2text" 
+Implementation-Version: "1.0.0"
+Implementation-Vendor: "SGTIC"
